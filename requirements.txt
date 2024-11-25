@@ -1,0 +1,14 @@
+streamlit
+google.generativeai
+PIL
+pytesseract
+pyttsx3
+torch
+torchvision
+transforms
+os
+dotenv
+cv2
+numpy
+requests
+io
